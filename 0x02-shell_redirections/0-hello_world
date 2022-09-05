@@ -1,2 +1,2 @@
-#!/bin/bassh
-Hello, World\n
+#!/bin/bash
+Hello, World$\n

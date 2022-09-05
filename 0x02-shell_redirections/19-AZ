@@ -1,2 +1,2 @@
 #!/bin/bash
-Zliee
+"Alice" | tr A Z | tr c e
